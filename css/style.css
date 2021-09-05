@@ -1,0 +1,187 @@
+html, body {
+        margin: 0;
+        padding: 0;
+        margin: 0;
+        font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+        font-size: 14px;
+        line-height: 20px;
+        color: #333333;
+        background-color: #ffffff;
+            
+      }
+
+hr {
+        margin-top: 25px;
+        margin-bottom: -10px;
+        width: 200px;
+        opacity: 0.3;
+}
+
+#blue {
+        /* A Paletas de cores foram baseados no site oficial do IFF-SVS */
+        height: 43px;
+        background-color:#071D41;
+        display:flex;
+        align-items:left;
+        position:relative;
+}
+
+#p1 {
+        margin-left: 88px;
+        background-image: url("data:image/svg+xml,%3Csvg%20width%3D%2250%22%20height%3D%2219%22%20version%3D%221.1%22%20viewBox%3D%220%200%2019%2050%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Cg%20transform%3D%22matrix%28.23%200%200%20.23%20-153%20-147%29%22%3E%3Cg%20transform%3D%22matrix%281.3%200%200%201.3%20-200%20-209%29%22%20fill%3D%22%23fff%22%3E%3Cpath%20d%3D%22m576%20765c0%2034-17%2046-50%2046-14%200-25-2.9-32-5.3l1.4-23c8.8%204.3%2016%206.9%2028%206.9%2017%200%2026-7.9%2026-24v-4.5h-.32c-6.9%209.8-17%2014-28%2014-23%200-37-17-37-42%200-25%2012-44%2038-44%2012%200%2022%206.8%2028%2017h.32v-15h26v74m-46-12c10%200%2018-8.7%2018-22%200-9.3-5.5-20-18-20-11%200-16%209.5-16%2021%200%2013%207.7%2020%2016%2020z%22%2F%3E%3Cpath%20d%3D%22m662%20686h28l22%2062%2022-62h28l-35%2089h-31l-34-89%22%2F%3E%3Cpath%20d%3D%22m576%20732c0-28%2021-44%2049-44s49%2016%2049%2044c0%2028-21%2044-49%2044-28%200-49-16-49-44m68%200c0-13-5.5-24-19-24s-19%2011-19%2024c0%2012%205.5%2024%2019%2024s19-11%2019-24z%22%2F%3E%3Cpath%20d%3D%22m760%20762c0%207.6-6.2%2014-14%2014-7.6%200-14-6.2-14-14%200-7.6%206.2-14%2014-14%207.6%200%2014%206.2%2014%2014z%22%2F%3E%3Cpath%20d%3D%22m762%20654h29v48h.32c7.4-9.3%2017-13%2029-13%2023%200%2036%2022%2036%2042%200%2025-13%2045-38%2045-13%200-25-7.6-29-17h-.32v15h-27v-121m47%2057c-11%200-18%209.3-18%2022%200%2012%208%2021%2018%2021%2011%200%2018-9.2%2018-22%200-11-6.3-21-18-21z%22%2F%3E%3Cpath%20d%3D%22m916%20714c-3.2-.97-6.4-.97-9.8-.97-14%200-21%209.8-21%2026v35h-29v-84h26v15h.32c5-11%2012-17%2025-17%203.4%200%206.9.48%209.8.96l-1.4%2024z%22%2F%3E%3C%2Fg%3E%3C%2Fg%3E%3C%2Fsvg%3E");
+        color: rgba(0, 0, 0, 0);
+        display: block;
+        font-family: Raleway, Arial, Helvetica, sans-serif;
+        font-size: 13px;
+        font-weight: 700;
+        height: 19px;
+        line-height: 0px;
+}
+
+#green-up {
+        /* A Paletas de cores foram baseados no site oficial do IFF-SVS */
+        background-color:#17882c;
+        background-image:-moz-radial-gradient(center,ellipse cover,#17882c 1%,#00510f 100%);
+        background-image:-webkit-radial-gradient(center,ellipse cover,#17882c 1%,#00510f 100%);
+        background-image:-o-radial-gradient(center,ellipse cover,#17882c 1%,#00510f 100%);background-image:-ms-radial-gradient(center,ellipse cover,#17882c 1%,#00510f 100%);background-image:radial-gradient(ellipse at center,#17882c 1%,#00510f 100%);
+        color:#fff;
+        padding:14px 0 0 0;
+        height: 123px;
+}
+
+#green-line-up {
+        background-color:#17882c;
+        background-image:-moz-radial-gradient(center,ellipse cover,#083511 1%,#07300f 100%);
+        background-image:-webkit-radial-gradient(center,ellipse cover,#0b3512 1%,#093a12 100%);
+        background-image:-o-radial-gradient(center,ellipse cover,#0a3813 1%,#05330d 100%);background-image:-ms-radial-gradient(center,ellipse cover,#093a12 1%,#06270c 100%);background-image:radial-gradient(ellipse at center,#0a3a12 1%,#072c0e 100%);
+        color:#fff;
+        padding:14px 0 0 0;
+        height: 18px;
+}
+
+#p2{
+        margin-top: 10;
+        margin-left: 88px;
+        color: rgb(255, 255, 255);
+        display: block;
+        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+        font-size: 14px;
+        height: 0px;
+        line-height: 20px;
+}
+#h1-1{
+        
+        margin-left: 88px;
+        margin-top: 2px;
+        font-family: open_sansextrabold, "Open Sans", Arial, Helvetica, sans-serif;
+        font-size: 38.5px;
+        font-weight: 800;
+        display: block;
+        height: 16px;
+        letter-spacing: -1px;
+        line-height: 42.35px;
+}
+#h2-1{
+        margin-left: 88px;
+        color: rgb(255, 255, 255);
+        display: block;
+        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+        font-size: 15.4px;
+        height: 15px;
+        line-height: 15px;
+        font-weight: normal;
+}
+
+#text {
+        margin-left: 300px;
+        margin-right: 110px;
+        text-align: justify;
+        margin-bottom: 100px;
+}
+
+#title {
+        margin-top: 50px;
+        margin-left: 300px;
+        margin-right: 110px;
+        text-align: justify;
+        margin-bottom: 100px;
+}
+
+.subtitle {
+        margin-left: 300px;
+        margin-right: 110px;
+}
+
+.paragraph{
+        text-indent: 5em;
+        margin-left: 300px;
+        margin-right: 110px;
+        text-align: justify;
+}
+
+.logo {
+        float: left;
+        margin-top: 20px;
+        margin-left: 80px;
+        height: 185px;
+        width: 140px;
+}
+
+#icons {
+        float: left;
+        margin-top: 240px;
+        margin-left: -140px;
+        
+}
+
+.icon {
+        margin-top: 15px;
+}
+
+.desc {
+        font-size: 13px;
+        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+        margin-left: 60px;
+        margin-top: -35px;
+}
+
+.descbreak {
+        font-size: 13px;
+        font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+        margin-left: 60px;
+        margin-top: -45px;
+}
+
+#green-down {
+        /* Baseado nas cores do site oficial do IFF-SVS */
+        background-color:#17882c;
+        background-image:-moz-radial-gradient(center,ellipse cover,#0f531c 1%,#00510f 100%);
+        background-image:-webkit-radial-gradient(center,ellipse cover,#0e641e 1%,#00510f 100%);
+        background-image:-o-radial-gradient(center,ellipse cover,#0c571b 1%,#00510f 100%);background-image:-ms-radial-gradient(center,ellipse cover,#0f571c 1%,#00510f 100%);background-image:radial-gradient(ellipse at center,#0f4e1a 1%,#00510f 100%);
+        color:#fff;
+        padding:14px 0 0 0;
+        height: 150px;
+}
+
+#green-line-down {
+        background-color:#17882c;
+        background-image:-moz-radial-gradient(center,ellipse cover,#083511 1%,#07300f 100%);
+        background-image:-webkit-radial-gradient(center,ellipse cover,#0b3512 1%,#093a12 100%);
+        background-image:-o-radial-gradient(center,ellipse cover,#0a3813 1%,#05330d 100%);background-image:-ms-radial-gradient(center,ellipse cover,#093a12 1%,#06270c 100%);background-image:radial-gradient(ellipse at center,#0a3a12 1%,#072c0e 100%);
+        color:#fff;
+        padding:14px 0 0 0;
+        height: 50px;
+        padding: 25px 0px;
+}
+
+#down-white {
+        margin-left: 88px;
+        text-align: center;
+        font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+        font-size: 14px;
+        line-height: 20px;
+}
+
+.final-margin {
+        margin-left: 88px;
+}
